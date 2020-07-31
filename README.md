@@ -12,5 +12,4 @@ npm install
 
 ## Dentro de Google-Signin-demo
 Se encuentra el código para realizar una prueba
-de Autenticación con Google en un Front-End básico
-pero funcional.
+de Autenticación con Google en un Front-End básico.
